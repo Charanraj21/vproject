@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "Username": "user1",
+            "FullName": "Aman Raikar",
+            "EmailId": "araik@gmail.com",
+            "PhoneNumber": "9865432456",
+            "Designation": "user",
+            "UserId": "1"            
+        },
+        {
+            "Username": "user2",
+            "FullName": "Sachin Kohli",
+            "EmailId": "sk@gmail.com",
+            "PhoneNumber": "9078654578",
+            "Designation": "user",
+            "UserId": "2"            
+        }
+    ]
+}
